@@ -1,46 +1,54 @@
 # Caso de éxito: Deporclub
 
-**Cómo ayudamos a Deporclub a aumentar su facturación mensual en 20%**
+**Cómo LlamaLeads ayudó a Deporclub a aumentar su facturación mensual en 20% y capturar más valor en temporada.**
 
-Deporclub necesitaba mejorar la forma en la que gestionaba sus oportunidades comerciales para convertir mejor el interés en ingresos reales. Había espacio para optimizar el seguimiento, reducir fugas en el proceso y aprovechar mejor cada lead generado.
+Deporclub necesitaba mejorar la forma en la que gestionaba sus oportunidades comerciales, reducir fugas en el seguimiento y convertir mejor la demanda generada durante sus campañas estacionales.
 
-Trabajamos en la mejora de su estructura comercial, afinando el proceso de conversión y fortaleciendo el seguimiento para aumentar el rendimiento de sus oportunidades.
+## El desafío
 
-**¿El resultado?**
-
-Deporclub consiguió un incremento sostenido del 20% en su facturación mensual.
+- Seguimiento de oportunidades poco sistematizado.
+- Fugas en el proceso de atención y recontacto.
+- Demanda estacional que necesitaba convertirse con mayor eficiencia.
+- Poca visibilidad sobre el avance de cada oportunidad comercial.
+- Necesidad de monetizar mejor cada lead generado.
 
 ## Lo que trabajamos
 
 **Infraestructura comercial y embudo:**
 
-- Optimización del embudo comercial con etapas definidas, responsables claros y métricas de avance
-- Automatizaciones de filtración y calificación de nuevos interesados
-- Orden del proceso de ventas con enfoque en conversión y monetización de oportunidades
+- Optimización del embudo comercial con etapas definidas, responsables claros y métricas de avance.
+- Automatizaciones de filtración, calificación y seguimiento de nuevos interesados.
+- Orden del proceso de ventas con enfoque en conversión y monetización de oportunidades.
 
 **Automatización y canales:**
 
-- Campañas de nutrición y recontacto automatizadas
-- Integración y estandarización de canales de comunicación: WhatsApp API, Facebook, Instagram, Email y Formularios
+- Campañas de nutrición y recontacto automatizadas.
+- Integración y estandarización de canales de comunicación: WhatsApp API, Facebook, Instagram, Email y formularios.
 
 **Equipo de ventas:**
 
-- Capacitación y desarrollo de procesos comerciales para el equipo de asesores de venta
-- Medición y seguimiento continuo al performance y KPIs de los asesores
+- Capacitación y desarrollo de procesos comerciales para el equipo de asesores de venta.
+- Medición y seguimiento continuo del performance y los KPIs del equipo comercial.
 
 **Data y medición:**
 
-- Construcción de dashboards integrados de data de Marketing y Ventas
-- Estrategia y configuración de atribución y retroalimentación de data de campañas de Meta vía Conversions API
+- Construcción de dashboards integrados de marketing y ventas.
+- Estrategia de atribución y retroalimentación de data de campañas para mejorar la toma de decisiones.
 
 **Adquisición:**
 
-- Gestión de audiencias y estrategia de anuncios
-- Mejora del seguimiento de leads a lo largo de todo el embudo
-- Coordinación y optimización de creatividades junto al equipo interno del negocio
+- Gestión de audiencias y estrategia de anuncios.
+- Mejora del seguimiento de leads a lo largo de todo el embudo.
+- Coordinación y optimización de creatividades junto al equipo interno del negocio.
 
 ## Resultados
 
-**Resultado principal:** +20% de facturación mensual
+| Métrica | Resultado visible |
+| --- | --- |
+| Crecimiento en facturación mensual | +20% |
+| Facturación incremental en temporada | S/150K+ |
+| Gestión de oportunidades | Mejor seguimiento y monetización |
 
-Incremento de S/161,000 extras del Verano 2025 vs Verano 2026
+## Conclusión
+
+Deporclub logró capturar más valor durante sus campañas estacionales al ordenar su proceso comercial, reducir fugas de seguimiento y mejorar la monetización de oportunidades.
